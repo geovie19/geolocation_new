@@ -6,7 +6,7 @@ pipeline {
     environment {
     registry = '676334272140.dkr.ecr.us-east-1.amazonaws.com/devop_repository'						
 
-    registryCredential = 'geovie19'
+    registryCredential = 'toutou'
     dockerimage = ''
   }
     stages {
